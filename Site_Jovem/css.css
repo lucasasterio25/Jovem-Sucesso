@@ -1,0 +1,37 @@
+body{
+	background:url(imagens/background.png) repeat;
+	margin:0;
+}
+
+div#header{
+	width: 1420px; 
+	height: 160px;
+	background:url(imagens/fundoHeader.png) repeat;
+}
+
+div#header h2{
+	float:left;
+	margin-left: 50px;
+	margin-top: 0;
+}
+
+div.form-group{
+	margin-top: 80px;
+	margin-left: 0px;
+}
+
+table.table{
+	background: #ffffff;
+}
+
+.primeira{
+	background: #000000;
+	color: #ffffff;
+
+}
+
+.segunda{
+	background: #ffffff;
+	color: #000000 ;
+
+}
